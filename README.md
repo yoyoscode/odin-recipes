@@ -1,1 +1,1 @@
-# odin-recipes
+I am currently working on my first HTML project "Recipes". So far I have set up my repository.
