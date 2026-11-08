@@ -1,0 +1,29 @@
+.background, .button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    color: rgb(50, 71, 9);
+    text-align: center;
+    font-weight:400;
+}
+
+.button{
+    background-color: plum;
+    border-color:darkolivegreen;
+    border-radius: 0%;
+    padding-bottom: auto;
+    margin-bottom: 10px;
+}
+
+.buttontext {text-decoration: none;
+            color: darkolivegreen;}
+        
+.chuletapic {
+  
+}
+ .greenspaghettipic {
+  
+ }
+
+
