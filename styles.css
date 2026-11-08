@@ -1,4 +1,4 @@
-.background, .button{
+.background, .indexbutton, .button{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -8,17 +8,36 @@
     font-weight:400;
 }
 
-.button{
+.indexbutton{
+    height: 75px;
+    width: 75px;
     background-color: plum;
     border-color:darkolivegreen;
-    border-radius: 0%;
-    padding-bottom: auto;
+    border-radius: 50%;
+    border: 1px solid darkolivegreen;
+    margin-bottom: 10px
+}
+.indexbuttontext{
+    text-decoration: none;
+    color: darkolivegreen;
+    text-align: center; 
+}
+    
+.button{
+    height: 50px;
+    width: 50px;
+    background-color: plum;
+    border-color:darkolivegreen;
+    border-radius: 50%;
+    border: 1px solid darkolivegreen;
     margin-bottom: 10px;
 }
+.buttontext{
+    text-decoration: none;
+    color: darkolivegreen;
+ }
 
-.buttontext {text-decoration: none;
-            color: darkolivegreen;}
-        
+
 .chuletapic {
   
 }
